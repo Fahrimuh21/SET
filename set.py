@@ -1,8 +1,3 @@
-#Nama File: set.py
-#Deskripsi: berisi type dan operasi set yang menggunakan list
-#Pembuat: Muhammad Fahri /24060124120037
-#Tanggal: 5 november 2024
-
 #DEFINISI DAN SPESIFIKASI TYPE
 #Set adalah sebuah list dengan syarat setiap elemen harus unik # Semua konstruktor, selektor, dan operasi yang telah didefinisikan
 # untuk list juga berlaku pada set
