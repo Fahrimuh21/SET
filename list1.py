@@ -1,9 +1,3 @@
-#Nama File : list.py
-#Pembuat   : Muhammad Fahri
-#NIM       : 24060124120037
-#Tanggal   : 29 oktober 2024
-#Deskripsi : sebuah list
-
 #DEFINISI DAN SPESIFIKASI TYPE
 #Konstruktor menambahkan elemen di awal, notasi prefix
 #type List:[] atau [e o List]
